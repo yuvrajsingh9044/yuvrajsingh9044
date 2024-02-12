@@ -7,7 +7,9 @@ I'm a B.Tech Electronics and Communication Engineering student with a passion fo
 - C Programming
 - Java
 - Python
+- My SQL
 - AWS Cloud Computing
+- Cyber Sequrity
 
 ## Find Me Online
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yuvrajsingh001)](https://www.linkedin.com/in/yuvrajsingh001)
