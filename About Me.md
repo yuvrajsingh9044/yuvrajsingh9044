@@ -20,6 +20,8 @@ I'm a B.Tech Electronics and Communication Engineering student with a passion fo
 [![Threads](https://img.shields.io/badge/-Threads-FF0000?style=flat-square&logo=threads&logoColor=white&link=https://www.threads.net/@yuvra_jsingha)](https://www.threads.net/@yuvra_jsingha)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white&link=https://www.pinterest.com/yuvra_jsingha)](https://www.pinterest.com/yuvra_jsingha)
 
+<script src="https://tryhackme.com/badge/3072939"></script>
+
 ## Blogger Journey
 Check out my thoughts on tech, life, and more on my [Blogger page](https://yuvrajsinghjournal.blogspot.com).
 
