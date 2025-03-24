@@ -10,36 +10,34 @@ I'm a **B.Tech ECE Student** at IERT Prayagraj (2022-2026) with a passion for **
 
 ## 🚀 About Me
 - 🎓 Pursuing a **B.Tech in Electronics & Communication Engineering** at IERT Prayagraj (CGPA: 7.6).
-- 💻 Currently working as a **Teaching Assistant** at IERT, assisting in Computer Science courses like DSA and Data Visualization.
 - 🔍 Always learning and experimenting with new technologies to solve real-world problems.
-
----
-
-## 🎓 Education
-- **B.Tech in Electronics & Communication Engineering**  
-  Institute of Engineering and Rural Technology (IERT), Prayagraj | AKTU  
-  CGPA: 7.6 | 2022–2026
 
 ---
 
 ## 🛠️ Skills
 <div align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/>
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" height="30"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50"/>    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50"/>    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" height="50"/>    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" height="50"/>    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="50"/>    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="50"/>    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"/>    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50"/>    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="50"/>
 </div>
 
 ---
 
-## 📜 Certifications
-- **Programming in Python** – Great Learning
-- **Programming Foundations with HTML, CSS, and JavaScript** – Coursera
-- **Cyber Security (Jr. Penetration Tester)** – Try Hack Me
+## 📫 Get in Touch
+<div align="center">
+  <a href="mailto:yuvrajmail9044@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Email" height="50"/></a>    
+  <a href="https://www.linkedin.com/in/yuvrajsingh001"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50"/></a>    
+  <a href="https://www.instagram.com/yuvra_jsingh_"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="50"/></a>    
+  <a href="https://x.com/yuvra_jsingh"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" height="50"/></a>    
+  <a href="https://www.facebook.com/yuvrajsingh9044"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" height="50"/></a>
+</div>
 
 ---
 
@@ -51,14 +49,17 @@ I'm a **B.Tech ECE Student** at IERT Prayagraj (2022-2026) with a passion for **
 
 ---
 
-## 📫 Get in Touch
-<div align="center">
-  <a href="mailto:yuvrajmail9044@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/></a>
-  <a href="https://www.linkedin.com/in/yuvrajsingh001"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>
-  <a href="https://www.instagram.com/yuvra_jsingh_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30"/></a>
-  <a href="https://x.com/yuvra_jsingh"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="30"/></a>
-  <a href="https://www.facebook.com/yuvrajsingh9044"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="30"/></a>
-</div>
+## 🎓 Education
+- **B.Tech in Electronics & Communication Engineering**  
+  Institute of Engineering and Rural Technology (IERT), Prayagraj | AKTU  
+  CGPA: 7.6 | 2022–2026
+
+---
+
+## 📜 Certifications
+- **Programming in Python** – Great Learning
+- **Programming Foundations with HTML, CSS, and JavaScript** – Coursera
+- **Cyber Security (Jr. Penetration Tester)** – Try Hack Me
 
 ---
 
