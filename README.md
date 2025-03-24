@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/yuvrajsingh9044/yuvrajsingh9044/raw/master/banner-image.jpg" alt="Banner Image" width="100%"/>
-</div>
-
 # Hey there, I'm Yuvraj Singh! 👋
 
 I'm a **B.Tech ECE Student** at IERT Prayagraj (2022-2026) with a passion for **Electronics**, **Web Development**, and **Software Engineering**. I love building projects that blend technology and innovation, from designing 5G antennas to creating web platforms. I’m also a competitive coder, always exploring new domains like **Blockchain**, **Cyber Security**, and **UI/UX Design**.
@@ -36,7 +32,9 @@ I'm a **B.Tech ECE Student** at IERT Prayagraj (2022-2026) with a passion for **
   <a href="https://www.linkedin.com/in/yuvrajsingh001"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50"/></a>    
   <a href="https://www.instagram.com/yuvra_jsingh_"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="50"/></a>    
   <a href="https://x.com/yuvra_jsingh"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" height="50"/></a>    
-  <a href="https://www.facebook.com/yuvrajsingh9044"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" height="50"/></a>
+  <a href="https://www.facebook.com/yuvrajsingh9044"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="Facebook" height="50"/></a>        
+  <a href="https://www.pinterest.com/yuvra_jsingha"><img src="https://cdn-icons-png.flaticon.com/512/174/174863.png" alt="Pinterest" height="50"/></a>    
+  <a href="https://yuvrajsinghjournal.blogspot.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968759.png" alt="Blogger" height="50"/></a>    
 </div>
 
 ---
